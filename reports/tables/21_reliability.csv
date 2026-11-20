@@ -1,0 +1,121 @@
+cohort,group,bin,predicted,observed,hours,model
+A,sparse,0,0.0010304175,0.00019992003198720512,10004,Carry-forward + time since last
+A,sparse,1,0.0018691906,0.0013995801259622112,10003,Carry-forward + time since last
+A,sparse,2,0.0026530789,0.004098360655737705,10004,Carry-forward + time since last
+A,sparse,3,0.003583679,0.005598320503848845,10003,Carry-forward + time since last
+A,sparse,4,0.004744573,0.0070971611355457815,10004,Carry-forward + time since last
+A,sparse,5,0.0062943734,0.009496201519392244,10004,Carry-forward + time since last
+A,sparse,6,0.008470939,0.013196041187643706,10003,Carry-forward + time since last
+A,sparse,7,0.012229201,0.015595321403578926,10003,Carry-forward + time since last
+A,sparse,8,0.020295722,0.026089564174330268,10004,Carry-forward + time since last
+A,sparse,9,0.07679273,0.07247101159536186,10004,Carry-forward + time since last
+A,medium,0,0.00064871315,0.0003757985719654265,7983,Carry-forward + time since last
+A,medium,1,0.0014441778,0.002129525241137417,7983,Carry-forward + time since last
+A,medium,2,0.002280408,0.00513591381686083,7983,Carry-forward + time since last
+A,medium,3,0.0031719138,0.004885381435550545,7983,Carry-forward + time since last
+A,medium,4,0.004307436,0.007642194938611876,7982,Carry-forward + time since last
+A,medium,5,0.0059717135,0.00864336715520481,7983,Carry-forward + time since last
+A,medium,6,0.008785777,0.012276086684203933,7983,Carry-forward + time since last
+A,medium,7,0.013626483,0.019165727170236752,7983,Carry-forward + time since last
+A,medium,8,0.02558185,0.03294500814230239,7983,Carry-forward + time since last
+A,medium,9,0.14777015,0.11299010397093824,7983,Carry-forward + time since last
+A,dense,0,0.0014809417,0.0023239184840900965,5594,Carry-forward + time since last
+A,dense,1,0.0034330161,0.008401859134787273,5594,Carry-forward + time since last
+A,dense,2,0.0055700736,0.01233684963347041,5593,Carry-forward + time since last
+A,dense,3,0.008128617,0.012513407222023596,5594,Carry-forward + time since last
+A,dense,4,0.011212329,0.018058287144645094,5593,Carry-forward + time since last
+A,dense,5,0.014887022,0.023954236682159458,5594,Carry-forward + time since last
+A,dense,6,0.019894626,0.03217733285663211,5594,Carry-forward + time since last
+A,dense,7,0.02781649,0.04595029501162167,5593,Carry-forward + time since last
+A,dense,8,0.045244556,0.06363961387200572,5594,Carry-forward + time since last
+A,dense,9,0.15408497,0.13711119056131568,5594,Carry-forward + time since last
+B,sparse,0,0.00056040776,0.0035301724891211267,57221,Carry-forward + time since last
+B,sparse,1,0.0012578911,0.0040719316334912005,57221,Carry-forward + time since last
+B,sparse,2,0.0020273773,0.004176788242078957,57221,Carry-forward + time since last
+B,sparse,3,0.0029003283,0.005382639240838154,57221,Carry-forward + time since last
+B,sparse,4,0.003908009,0.0050331172122123,57221,Carry-forward + time since last
+B,sparse,5,0.0051801456,0.006152232806082321,57215,Carry-forward + time since last
+B,sparse,6,0.0069086575,0.00774110122844112,57227,Carry-forward + time since last
+B,sparse,7,0.009681309,0.008685622411352475,57221,Carry-forward + time since last
+B,sparse,8,0.016014827,0.012897362856294017,57221,Carry-forward + time since last
+B,sparse,9,0.11974171,0.04175040631935828,57221,Carry-forward + time since last
+B,medium,0,0.000393957,0.013011281057512631,14449,Carry-forward + time since last
+B,medium,1,0.00087784464,0.007543774655685514,14449,Carry-forward + time since last
+B,medium,2,0.0013273779,0.008166655131843035,14449,Carry-forward + time since last
+B,medium,3,0.0018674139,0.009827669734929753,14449,Carry-forward + time since last
+B,medium,4,0.002598912,0.010865803861858953,14449,Carry-forward + time since last
+B,medium,5,0.0036320179,0.01224998269776455,14449,Carry-forward + time since last
+B,medium,6,0.0051778606,0.017025399681638867,14449,Carry-forward + time since last
+B,medium,7,0.007793229,0.019724548411654785,14449,Carry-forward + time since last
+B,medium,8,0.014170911,0.032458993701986294,14449,Carry-forward + time since last
+B,medium,9,0.113888025,0.09412416084158073,14449,Carry-forward + time since last
+B,dense,0,0.0005421808,0.018763796909492272,4530,Carry-forward + time since last
+B,dense,1,0.0012194652,0.01854714064914992,4529,Carry-forward + time since last
+B,dense,2,0.0019612517,0.02075055187637969,4530,Carry-forward + time since last
+B,dense,3,0.0028863125,0.021196732170457054,4529,Carry-forward + time since last
+B,dense,4,0.004181527,0.03267829542945463,4529,Carry-forward + time since last
+B,dense,5,0.0061261775,0.033112582781456956,4530,Carry-forward + time since last
+B,dense,6,0.009107067,0.03245749613601236,4529,Carry-forward + time since last
+B,dense,7,0.014432039,0.041721854304635764,4530,Carry-forward + time since last
+B,dense,8,0.027694965,0.06270699933760213,4529,Carry-forward + time since last
+B,dense,9,0.14783014,0.12428256070640177,4530,Carry-forward + time since last
+A,sparse,0,0.0015247158,0.0002998800479808077,10004,"Causal GP, multiple imputation"
+A,sparse,1,0.002522063,0.0016994901529541137,10003,"Causal GP, multiple imputation"
+A,sparse,2,0.0032890097,0.005297880847660936,10004,"Causal GP, multiple imputation"
+A,sparse,3,0.004138201,0.004498650404878537,10003,"Causal GP, multiple imputation"
+A,sparse,4,0.0052314713,0.006597361055577769,10004,"Causal GP, multiple imputation"
+A,sparse,5,0.006715656,0.008696521391443423,10004,"Causal GP, multiple imputation"
+A,sparse,6,0.008927999,0.013995801259622114,10003,"Causal GP, multiple imputation"
+A,sparse,7,0.012743606,0.016495051484554633,10003,"Causal GP, multiple imputation"
+A,sparse,8,0.02109734,0.024790083966413436,10004,"Causal GP, multiple imputation"
+A,sparse,9,0.074300684,0.07287085165933627,10004,"Causal GP, multiple imputation"
+A,medium,0,0.001205508,0.0008768633345859953,7983,"Causal GP, multiple imputation"
+A,medium,1,0.0022611876,0.003757985719654265,7983,"Causal GP, multiple imputation"
+A,medium,2,0.0032371727,0.004509582863585118,7983,"Causal GP, multiple imputation"
+A,medium,3,0.004308657,0.003632719528999123,7983,"Causal GP, multiple imputation"
+A,medium,4,0.005758051,0.006639939864695565,7982,"Causal GP, multiple imputation"
+A,medium,5,0.007973638,0.008142302392584242,7983,"Causal GP, multiple imputation"
+A,medium,6,0.011378716,0.011900288112238507,7983,"Causal GP, multiple imputation"
+A,medium,7,0.016982794,0.02066892145809846,7983,"Causal GP, multiple imputation"
+A,medium,8,0.029961469,0.03307027433295753,7983,"Causal GP, multiple imputation"
+A,medium,9,0.13799882,0.11299010397093824,7983,"Causal GP, multiple imputation"
+A,dense,0,0.0024584022,0.0025026814444047193,5594,"Causal GP, multiple imputation"
+A,dense,1,0.0048523066,0.009295673936360386,5594,"Causal GP, multiple imputation"
+A,dense,2,0.007562573,0.008224566422313607,5593,"Causal GP, multiple imputation"
+A,dense,3,0.010815266,0.015373614587057561,5594,"Causal GP, multiple imputation"
+A,dense,4,0.014507838,0.020919005900232435,5593,"Causal GP, multiple imputation"
+A,dense,5,0.019010516,0.020736503396496245,5594,"Causal GP, multiple imputation"
+A,dense,6,0.024703685,0.027529495888451914,5594,"Causal GP, multiple imputation"
+A,dense,7,0.0335881,0.04434114071160379,5593,"Causal GP, multiple imputation"
+A,dense,8,0.052136526,0.058991776903825524,5594,"Causal GP, multiple imputation"
+A,dense,9,0.15799855,0.14855202002145154,5594,"Causal GP, multiple imputation"
+B,sparse,0,0.0011022586,0.005260306530819105,57221,"Causal GP, multiple imputation"
+B,sparse,1,0.002139026,0.002935985040457175,57221,"Causal GP, multiple imputation"
+B,sparse,2,0.0029127346,0.0034253158805333706,57221,"Causal GP, multiple imputation"
+B,sparse,3,0.0037544093,0.004106883836353786,57221,"Causal GP, multiple imputation"
+B,sparse,4,0.0047957785,0.005137973820800056,57221,"Causal GP, multiple imputation"
+B,sparse,5,0.006153673,0.006343824819559253,57221,"Causal GP, multiple imputation"
+B,sparse,6,0.008073217,0.007846769542650426,57221,"Causal GP, multiple imputation"
+B,sparse,7,0.011305874,0.00922738155572255,57221,"Causal GP, multiple imputation"
+B,sparse,8,0.018682184,0.013089599972038238,57221,"Causal GP, multiple imputation"
+B,sparse,9,0.11882694,0.042047500043690254,57221,"Causal GP, multiple imputation"
+B,medium,0,0.0009921443,0.01384178835905599,14449,"Causal GP, multiple imputation"
+B,medium,1,0.0020567377,0.006644058412346875,14449,"Causal GP, multiple imputation"
+B,medium,2,0.0027885537,0.0070593120631185545,14449,"Causal GP, multiple imputation"
+B,medium,3,0.0036115872,0.009135580316976954,14449,"Causal GP, multiple imputation"
+B,medium,4,0.004656231,0.009343207142362793,14449,"Causal GP, multiple imputation"
+B,medium,5,0.0060813376,0.011696311163402312,14449,"Causal GP, multiple imputation"
+B,medium,6,0.008190271,0.015295176136756869,14449,"Causal GP, multiple imputation"
+B,medium,7,0.011766813,0.023115786559623503,14449,"Causal GP, multiple imputation"
+B,medium,8,0.020748314,0.0341892172468683,14449,"Causal GP, multiple imputation"
+B,medium,9,0.1308777,0.09467783237594297,14449,"Causal GP, multiple imputation"
+B,dense,0,0.0012974828,0.02163355408388521,4530,"Causal GP, multiple imputation"
+B,dense,1,0.0026955253,0.017222344888496357,4529,"Causal GP, multiple imputation"
+B,dense,2,0.0039003873,0.016114790286975718,4530,"Causal GP, multiple imputation"
+B,dense,3,0.0053578564,0.024067122985206447,4529,"Causal GP, multiple imputation"
+B,dense,4,0.007252336,0.025833517332744534,4529,"Causal GP, multiple imputation"
+B,dense,5,0.009960288,0.03090507726269316,4530,"Causal GP, multiple imputation"
+B,dense,6,0.014043711,0.031795098255685585,4529,"Causal GP, multiple imputation"
+B,dense,7,0.021252492,0.04812362030905077,4530,"Causal GP, multiple imputation"
+B,dense,8,0.038242374,0.05365422830646942,4529,"Causal GP, multiple imputation"
+B,dense,9,0.15803638,0.1368653421633554,4530,"Causal GP, multiple imputation"
